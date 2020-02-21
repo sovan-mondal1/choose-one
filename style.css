@@ -27,6 +27,7 @@ h1{
 	z-index: 1;
 	box-shadow: 0 0 30px -15px gray;
 	transition: 1s;
+	height:25em;
 }
 .service-logo{
 	width: 130px;
