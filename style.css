@@ -13,7 +13,7 @@ h1{
 }
 .main{
 	width: 100%;
-	min-height: 380px;
+	height: 450px;
 	text-align: center;
 	position: relative;
 	cursor: pointer;
