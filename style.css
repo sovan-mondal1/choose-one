@@ -48,9 +48,6 @@ h1{
 	margin: 50px auto;
 	position: relative;
 }
-.service p{
-	width: 17em;
-}
 .service h4::after{
 	content: '';
 	width: 40px;
